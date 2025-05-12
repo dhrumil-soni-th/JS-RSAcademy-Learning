@@ -1,0 +1,4 @@
+// Create an inheritance relationship between parent and child classes.
+// Invoke the parent class constructor from the child class.
+// create main.js file to call parent class method from the child class object.
+// How to use super and this keyword usage to achive above.
